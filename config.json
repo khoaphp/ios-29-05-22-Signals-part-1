@@ -1,0 +1,14 @@
+{
+    "domain":"http://localhost:3000",
+    "mongodb":{
+        "server":"cluster0.qah5q.mongodb.net",
+        "username":"khoaphamsignals2022",
+        "password":"",
+        "dbname":"signalsdb_01"
+    },
+    "mail":{
+        "smtpserver":"",
+        "username":"",
+        "password":""
+    }
+}
